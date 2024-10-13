@@ -1,1 +1,1 @@
-creating another readme file
+readme file for git directory
